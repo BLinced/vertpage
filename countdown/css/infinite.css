@@ -1,6 +1,6 @@
 .overlay{
   position:fixed;
-   background:url(https://orig00.deviantart.net/97d6/f/2014/257/b/5/animated_pixel_stars___box_background_by_driftwoodbones-d7z0h0p.gif);
+   background:url(../img/starfield.gif);
   -webkit-animation:100s scroll infinite linear;
   -moz-animation:100s scroll infinite linear;
   -o-animation:100s scroll infinite linear;
